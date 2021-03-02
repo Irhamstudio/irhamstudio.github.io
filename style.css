@@ -454,9 +454,9 @@ li span a:hover {
 
 
 .hero-tag {
-    margin-top: 20vh;
+    margin-top: 10vh;
     text-align: left;
-    font-size: 4.5em;
+    font-size: 3.5em;
     font-weight: bold;
     color: var(--hero-color);
     font-family: 'CircularStd', sans-serif;
@@ -779,8 +779,8 @@ li span:hover:after {
     }
 
     .hero-tag {
-        margin-top: 20vh;
-        font-size: 4em;
+        margin-top: 5vh;
+        font-size: 3em;
     }
 
     #hero-right {
